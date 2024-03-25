@@ -1,0 +1,12 @@
+.col-8 p{
+    font-family: 'Overpass Mono';
+    font-size: 18px;
+    line-height: 2;
+    text-align: left;
+    margin-top: 25px;
+}
+.col h3{
+    font-size: 22px;
+    font-family: 'Overpass Mono';
+    font-weight: bold;
+}

@@ -1,1 +1,8 @@
 @import"article_title.css";
+@import"immmagine.css";
+@import"paragrafo.css";
+.col h3{
+    font-size: 22px;
+    font-family: 'Overpass Mono';
+    font-weight: bold;
+}

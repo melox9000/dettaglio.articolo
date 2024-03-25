@@ -1,11 +1,10 @@
-.article_title{
+
+
+ .col-8 h1{
+    font-size: 48px;
     font-family:'Roboto',sans-serif;
     font-weight: bold;
     line-height: 1;
-}
-
-.article_title h2{
-    font-size: 48px;
-    margin: 0;
-
-}
+    text-align: left;
+    margin-bottom: 35px;
+ }
